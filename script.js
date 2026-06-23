@@ -19,8 +19,6 @@ const datos = [
     {"carrera": "Diseño", "institucion": "U. De Viña Del Mar", "tipo": "Universidad", "acreditacion": "4 años", "region": "Valparaíso", "arancel": "$4.277.000"},
     {"carrera": "Diseño De Ambientes", "institucion": "Ip Duoc Uc", "tipo": "IP", "acreditacion": "7 años", "region": "Valparaíso", "arancel": "$3.100.000"},
     {"carrera": "Diseño De Ambientes", "institucion": "Ip Duoc Uc", "tipo": "IP", "acreditacion": "7 años", "region": "Metropolitana", "arancel": "$3.290.000"},
-    {"carrera": "Diseño De Ambientes", "institucion": "Ip Duoc Uc", "tipo": "IP", "acreditacion": "7 años", "region": "Metropolitana", "arancel": "$3.340.000"},
-    {"carrera": "Diseño De Ambientes", "institucion": "Ip Duoc Uc", "tipo": "IP", "acreditacion": "7 años", "region": "Metropolitana", "arancel": "$3.340.000"},
     {"carrera": "Diseño De Juegos Digitales", "institucion": "U. Andres Bello", "tipo": "Universidad", "acreditacion": "6 años", "region": "Metropolitana", "arancel": "$7.136.000"},
     {"carrera": "Diseño De Juegos Digitales", "institucion": "U. Andres Bello", "tipo": "Universidad", "acreditacion": "6 años", "region": "Biobío", "arancel": "$5.069.000"},
     {"carrera": "Diseño De Moda Profesional", "institucion": "Ip Inacap", "tipo": "IP", "acreditacion": "7 años", "region": "Coquimbo", "arancel": "$3.579.000"},
